@@ -1,4 +1,4 @@
-from Dog import Dog
+from 25-Dog.py import Dog
 # dávej run v dogs.py ne v Dog.py #
 dog1 = Dog("Erik")
 dog2 = Dog("Verkus")
