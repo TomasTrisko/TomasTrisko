@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TomasTrisko
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @TomasTrisko and i am studying IT.
+- 🌱 I’m currently learning python, html, css and javascript.
 
 <!---
 TomasTrisko/TomasTrisko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
